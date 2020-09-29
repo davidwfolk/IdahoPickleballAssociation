@@ -1,5 +1,5 @@
 <template>
-  <div class="bg">
+  <div class="">
     <div class="container">
       <div class="row py-5">
         <div class="col-md-8 order-1 order-md-0 col-12 px-0">
@@ -33,7 +33,7 @@
             <strong style="font-weight: 600">Pickleball</strong> Association
           </h1>
           <h3 class="text-white pb-2">Find a game now!</h3>
-          <b-button variant="outline-light" class="btn-circle btn-xl mb-5 font-weight-bold"
+          <b-button variant="outline-dark" class="btn-circle text-warning btn-xl mb-5 font-weight-bold"
             ><strong>FIND GAME</strong></b-button
           >
         </div>
