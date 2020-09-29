@@ -2,14 +2,16 @@
 <div>
 <Navbar/>
 <Hero/>
-<Card/>
 <Email/>
+<Carousel/>
+<Card/>
 </div>
 </template>
 
 <script>
 import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
+import Carousel from "../components/Carousel"
 import Card from "../components/Card"
 import Email from "../components/Email"
 export default {
@@ -18,6 +20,7 @@ export default {
     Hero,
     Card,
     Email,
+    Carousel,
   }
 }
 </script>
