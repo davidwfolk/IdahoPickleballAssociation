@@ -1,0 +1,25 @@
+{
+  "name": "pickleball",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/firebase": "^6.1.1",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.16.0",
+    "core-js": "^3.6.5",
+    "firebase": "^7.21.1",
+    "nuxt": "^2.14.5",
+    "vue-router": "^3.4.4"
+  },
+  "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@nuxtjs/fontawesome": "^1.1.2"
+  }
+}
